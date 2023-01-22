@@ -43,7 +43,7 @@
 		{
             "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM[/COLOR][/B]",
             "section": false,
-            "url": https://raw.githubusercontent.com/andtv/andtv.github.io/master/tvban/wizard/buffer/andtvBuffer-Ram.xml",
+            "url": "https://raw.githubusercontent.com/andtv/andtv.github.io/master/tvban/wizard/buffer/andtvBuffer-Ram.xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
             "fanart": "https://i.imgur.com/OjqQwEt.jpg",
             "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
