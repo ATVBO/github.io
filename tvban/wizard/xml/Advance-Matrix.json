@@ -41,7 +41,7 @@
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         },
 		{
-            "name": "[B][COLOR white]and[COLOR tomato]Buf[/COLOR][/B]",
+            "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/andtv/andtv.github.io/master/tvban/wizard/buffer/andtvBuffer.xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
