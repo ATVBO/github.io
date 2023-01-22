@@ -1,13 +1,5 @@
 {
     "presets": [
-	    {
-            "name": "[B][COLOR white]andtv[COLOR tomato]Buffer[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/andtv/andtv.github.io/master/tvban/wizard/buffer/andtvBuffer.xml",
-            "icon": "https://i.imgur.com/92HS18a.png",
-            "fanart": "https://i.imgur.com/OjqQwEt.jpg",
-            "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
-        },
         {
             "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
             "section": false,
@@ -47,6 +39,14 @@
             "icon": "https://i.imgur.com/dqteane.png",
             "fanart": "https://i.imgur.com/OjqQwEt.jpg",
             "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
+        },
+		{
+            "name": "[B][COLOR white]and[COLOR tomato]Buf[/COLOR][/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/andtv/andtv.github.io/master/tvban/wizard/buffer/andtvBuffer.xml",
+            "icon": "https://i.imgur.com/gmFFjk6.png",
+            "fanart": "https://i.imgur.com/OjqQwEt.jpg",
+            "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
         }
     ]
 }
