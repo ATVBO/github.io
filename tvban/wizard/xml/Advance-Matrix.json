@@ -1,5 +1,13 @@
 {
     "presets": [
+	    {
+            "name": "[B][COLOR steelblue]AndtvBuffer[/COLOR][/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/andtv/andtv.github.io/master/tvban/wizard/buffer/andtvBuffer.xml",
+            "icon": "https://i.imgur.com/mX6Nv9n.png",
+            "fanart": "https://i.imgur.com/OjqQwEt.jpg",
+            "description": "Este ajuste utiliza la memoria ROM como buffer, ideal para dispositivos con gran capacidad de memoria externa."
+        },
         {
             "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
             "section": false,
