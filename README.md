@@ -1,4 +1,4 @@
-# Grupo Telegram soporte: https://web.telegram.org/#/im?p=@beelinkking
+# Grupo Telegram soporte: 
 # Fuente: https://andtv.github.io/tvban
 
 # LEIA
